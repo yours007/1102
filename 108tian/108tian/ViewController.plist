@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewcontrollerurl</key>
+		<string>https://api.108tian.com/mobile/v2/Home?cityId=1&amp;uuid=8ea4f0cd0ccbbce5a96f322c5a35b8d4ace78b91&amp;timeStamp=1436071238254</string>
+		<key>viewcontrollertitle</key>
+		<string>首页</string>
+		<key>viewcontrollername</key>
+		<string>HomeViewController</string>
+	</dict>
+	<dict>
+		<key>viewcontrollerurl</key>
+		<string>https://api.108tian.com/mobile/v2/RecommendList?cityId=1&amp;type=123&amp;timeStamp=1436072327331</string>
+		<key>viewcontrollertitle</key>
+		<string>精选</string>
+		<key>viewcontrollername</key>
+		<string>ListViewController</string>
+	</dict>
+	<dict>
+		<key>viewcontrollerurl</key>
+		<string>https://api.108tian.com/mobile/v2/ThemeItems?type=Event&amp;timeStamp=1436073330423</string>
+		<key>viewcontrollertitle</key>
+		<string>活动</string>
+		<key>viewcontrollername</key>
+		<string>EventViewController</string>
+	</dict>
+	<dict>
+		<key>viewcontrollerurl</key>
+		<string></string>
+		<key>viewcontrollertitle</key>
+		<string></string>
+		<key>viewcontrollername</key>
+		<string>MineViewController</string>
+	</dict>
+</array>
+</plist>

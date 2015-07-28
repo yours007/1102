@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>周边玩</string>
+		<key>imagename</key>
+		<string>choiceness_image_tour_around</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>农家院</string>
+		<key>imagename</key>
+		<string>choiceness_image_farm</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>度假村</string>
+		<key>imagename</key>
+		<string>choiceness_image_resort</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>采摘</string>
+		<key>imagename</key>
+		<string>choiceness_image_pick</string>
+	</dict>
+</array>
+</plist>
